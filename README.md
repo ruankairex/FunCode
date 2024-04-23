@@ -10,7 +10,10 @@
     - starGarph:使用*字號在consloe區畫圖
     - sort_algorithms:排序，基本資料結構
     - sort_practice:排序，偏向leetcode
+    - string_:字串或字元的題目
+    - nums:數字題目
 ## 專案log
 - 2024.04.21 專案上線，新增:{starGarph:菱形圖，sort_algorithms:氣泡、雞尾酒}
 - 2024.04.22  新增:{sort_practice:sortChar字串排序(使用Map&List)}
+- 2024.04.23 新增:{string_:StringInit，nums:TwoNumsReverseAndSum}
 ### 專案持續更新...
