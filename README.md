@@ -19,4 +19,5 @@
 - 2024.04.23 string_:StringInit，nums:TwoNumsReverseAndSum
 - 2024.04.23 binaryTree:CheckTwoBinaryTreesAreSame
 - 2024.04.26 nums:threeSum
+- 2024.04.29 nums:CanPlaceFlowers string_:ReverseVowelString
 ### 專案持續更新...
