@@ -37,8 +37,7 @@ public class MergeNodesBetweenZeros {
 			tmp.next = innerTmp;
 			tmp = tmp.next;
 		}
-		return tmp;
-        
+		return head.next;
     }
 	
 	static class ListNode {
