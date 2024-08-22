@@ -53,7 +53,7 @@ public class LC2392BuildMatrixWithConditioin {
         }
 
         visited = new int[k + 1];
-        queue = new LinkedList();
+        queue = new LinkedList<Integer>();
         for(int i = 1; i < colGraph.length; i++){
             if(!topSort(colGraph, i, visited, queue)){
                 return new int[0][0];
